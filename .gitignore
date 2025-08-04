@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+ninvib*
+*.bnvib
+*:yml
+
 # Object files
 *.o
 *.ko
